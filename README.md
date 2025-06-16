@@ -1,11 +1,9 @@
 ## Olá! 👋
 
 
-  <a href="https://github.com/oEduardoCastro/github-readme-stats">
-    <img height="200" align=center src="https://github-readme-stats.vercel.app/api?username=oEduardoCastro&show_icons=true&theme=aura_dark&include_all_commits=true&count_private=true&hide=contribs"/>
-  </a>
-  <a ref="https://github.com/oEduardoCastro/github-top-langs">
-    <img height="200" align=center src="https://github-readme-stats.vercel.app/api/top-langs/?username=oEduardoCastro&layout=compact&langs_count=16&theme=aura_dark"/>
+  <a href="https://github.com/oEduardoCastro/github-readme-stats-top-langs">
+    <img height="190em" width="49%" align=center src="https://github-readme-stats.vercel.app/api?username=oEduardoCastro&show_icons=true&theme=aura_dark&include_all_commits=true&count_private=true&hide=contribs" />
+    <img height="180em" width="50%" align=center src="https://github-readme-stats.vercel.app/api/top-langs/?username=oEduardoCastro&layout=compact&langs_count=16&theme=aura_dark" />
   </a>
 
 
