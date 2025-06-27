@@ -28,7 +28,7 @@ Me chamo Eduardo Pereira de Castro, tenho 22 anos e sou natural do Rio Grande do
 
 <div>
   <a hred="https://github.com/oEduardoCastro">
-  <img height="180em" style="padding-right: 10px" src="https://github-readme-stats.vercel.app/api?username=oEduardoCastro&show_icons=true&include_all_commits=true&theme=aura_dark"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=oEduardoCastro&show_icons=true&include_all_commits=true&theme=aura_dark"/>
   <img height="180em"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=oEduardoCastro&layout=compact&langs_count=16&theme=aura_dark"/>
 </div>
     
